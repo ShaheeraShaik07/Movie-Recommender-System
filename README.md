@@ -1,5 +1,5 @@
 # Movie-Recommender-System
-project: name: "Movie Recommender System using TF-IDF" description: "A simple movie recommendation engine that suggests similar movies based on their genre using TF-IDF vectorization and cosine similarity." version: "1.0" author: name: "Gowtham Raj" github: "https://github.com/GowthamRaj8886" files: - "movies_sample.csv" - "Movie_Recommender_System.ipynb" - "README.md"
+project: name: "Movie Recommender System using TF-IDF" description: "A simple movie recommendation engine that suggests similar movies based on their genre using TF-IDF vectorization and cosine similarity." version: "1.0" author: name: "Gowtham Raj" github: "" files: - "movies_sample.csv" - "Movie_Recommender_System.ipynb" - "README.md"
 
 features:
 
